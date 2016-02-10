@@ -72,3 +72,7 @@ h4, h5 {
 	height: 200px;
 	padding-top: 10px;
 }
+
+.header-row {
+	font-weight: 600;
+}
